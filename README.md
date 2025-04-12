@@ -4,7 +4,7 @@ A smart Chrome extension that helps users understand lengthy content by instantl
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo
 <p align="center">
   <img src="asset/portfolio-perfect research assistant-v1.png" width="500" alt="Dashboard Screenshot"/>
 </p>
